@@ -1,0 +1,28 @@
+#table th, td  {
+    
+        border: 2px solid blue;
+        border-radius: 5px;
+        padding: 30px;
+        align-self: center;
+
+}
+#form {
+    border: solid 3px;
+    margin:0 auto;
+    width: 40%;
+    padding: 20px;
+    
+}
+.input2{
+    padding: 20px 50px;
+    border-radius: 5px;
+    border: solid 1px;
+    width: 40%;
+}
+button{
+    padding: 6px 120px;
+    border: solid 2px;
+    background-color: black;
+    border-radius: 5px;
+    color: white;}
+    
